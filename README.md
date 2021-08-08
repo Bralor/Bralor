@@ -1,9 +1,9 @@
 ## Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Matouš
 
 ### 🤝 Currently I am working as:
-1. Test automation engineer at [NIC.cz](https://www.nic.cz/),
-2. content creator & lecturer at [Engeto s.r.o](https://engeto.cz/),
-3. occasional freelancer on smaller projects.
+1. **Test automation engineer** at [NIC.cz](https://www.nic.cz/),
+2. **content creator** & **lecturer** at [Engeto s.r.o](https://engeto.cz/),
+3. **occasional freelancer** on smaller projects.
 
 ### 🙋‍♂️ At the same time I am interested in these fields:
 - Automation,
