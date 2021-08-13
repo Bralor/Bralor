@@ -8,10 +8,10 @@
 ### 🙋‍♂️ At the same time I am interested in these fields:
 - Automation,
 - testing (TDD principles, pytest, unittest, doctest),
-- frameworks (Django, Selenium, tensorflow, ..)
+- frameworks (Django, Selenium, tensorflow, keras..)
 - data-science (pandas, numpy, matplotlib),
 - containerization (docker, docker-compose),
-- SQL (sqlite, mongoDB, postgresql)
+- SQL/NoSQL (sqlite, mongoDB, postgresql),
 - clean code (because not only readability counts).
 
 <!--
