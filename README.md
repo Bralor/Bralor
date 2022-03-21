@@ -6,7 +6,7 @@
 3. **occasional freelancer** on smaller projects.
 
 ### 🙋‍♂️ At the same time I am interested in these fields:
-- **Automation**,
+- **Automation** (GitHub Actions, GitLab CI/CD),
 - **testing** (TDD principles, pytest, unittest, doctest),
 - **frameworks** (Django, Selenium, tensorflow, keras..),
 - **data-science** (pandas, numpy, matplotlib),
