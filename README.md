@@ -6,13 +6,14 @@
 3. **occasional freelancer** on smaller projects.
 
 ### 🙋‍♂️ At the same time I am interested in these fields:
-- **Automation** (GitHub Actions, GitLab CI/CD),
-- **testing** (TDD principles, pytest, unittest, doctest),
-- **frameworks** (Django, Selenium, tensorflow, keras..),
-- **data-science** (pandas, numpy, matplotlib),
-- **containerization** (docker, docker-compose),
-- **SQL**/**NoSQL** (sqlite, mongoDB, postgresql),
-- **clean code** (because not only readability counts).
+- **automation** (GitHub Actions, GitLab CI/CD)
+- **testing** (TDD, pytest, sqhinx)
+- **frameworks** (django, flask, selenium)
+- **data-science** (numpy, pandas, pyspark, matplotlib)
+- **containerization** (docker, docker-compose)
+- **sql**/**nosql** (sqlite, mongoDB, postgresql)
+- **big data** (amazon EMR, spark)
+- **clean code** (because common sense still counts)
 
 <!--
 **Bralor/Bralor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
