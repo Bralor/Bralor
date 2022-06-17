@@ -1,4 +1,4 @@
-## Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Matouš
+## Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3px">, I'm Matouš
 
 ### 🤝 Currently I am working as:
 1. **Test automation engineer** at [NIC.cz](https://www.nic.cz/),
