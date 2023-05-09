@@ -1,8 +1,8 @@
 ## Hello there 👋 I'm Matouš Holinka,
 
 ### 🤝 Currently working at:
-* **Big data engineer** at [Komerční banka a. s.](https://www.kb.cz/),
-* **Content creator, lecturer & platform support** at [Engeto s r.o.](https://engeto.cz/),
+* **Big data engineer** at <a href="https://www.kb.cz" target="_blank">Komerční banka a. s.</a>,
+* **Content creator, lecturer & platform support** at <a href="https://engeto.cz/" target="_blank">Engeto s r. o.</a>,
 * **Occasional freelancing** (consulting, reviewing & refactoring).
 
 ### 🙋 Experienced with:
