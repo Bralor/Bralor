@@ -1,19 +1,24 @@
-## Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3px">, I'm Matouš
+## Hello there 👋 I'm Matouš Holinka,
 
-### 🤝 Currently I am working as:
-1. **Test automation engineer** at [NIC.cz](https://www.nic.cz/),
-2. **content creator** & **lecturer** at [Engeto s.r.o](https://engeto.cz/),
-3. **occasional freelancer** on smaller projects.
+### 🤝 Currently working at:
+* **Big data engineer** at [Komerční banka a. s.](https://www.kb.cz/),
+* **Content creator, lecturer & platform support** at [Engeto s r.o.](https://engeto.cz/),
+* **Occasional freelancing** (consulting, reviewing & refactoring).
 
-### 🙋‍♂️ At the same time I am interested in these fields:
-- **automation** (GitHub Actions, GitLab CI/CD)
-- **testing** (TDD, pytest, sqhinx)
-- **frameworks** (django, flask, selenium)
-- **data-science** (numpy, pandas, pyspark, matplotlib)
-- **containerization** (docker, docker-compose)
-- **sql**/**nosql** (sqlite, mongoDB, postgresql)
-- **big data** (amazon EMR, spark)
-- **clean code** (because common sense still counts)
+### 🙋 Experienced with:
+* **Scripting, programming, query languanges** (bash, python, scala, SQL),
+* **big data** (HFDS, Hive, Impala),
+* **automation** (gitlab ci/cd, github actions),
+* **testing, logging & documentation** (TDD, BDD, pytest, sqhinx),
+* **sql, nosql** (sqlite3, postgresql, mongodb),
+* **backend** (flask, django),
+* **data engineering** (numpy, pandas, matplotlib, tensorflow),
+* **containerization** (docker, docker-compose).
+
+### 🎯 Focusing on:
+* **Scala**,
+* **java**,
+* **spark**.
 
 <!--
 **Bralor/Bralor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
